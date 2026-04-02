@@ -18,24 +18,24 @@ export const profile = {
 
 export const education = [
   {
-    degree: "B.Tech — Computer Science & Engineering",
-    institution: "Delhi Technological University",
+    degree: "B.Tech — Artificial Intelligence and Data Science",
+    institution: "Dr Akhilesh Das Gupta Institute of Professional Studies",
     year: "2021 – 2025",
-    grade: "CGPA: 8.7 / 10",
+    grade: "First - 8.3/10, Second - _ /10  ",
     icon: "🏛️",
   },
   {
     degree: "Class XII (CBSE)",
-    institution: "Delhi Public School, RK Puram",
-    year: "2021",
-    grade: "97.2%",
+    institution: "Joseph and Mary public school, Delhi",
+    year: "2024",
+    grade: "84%",
     icon: "📚",
   },
   {
     degree: "Class X (CBSE)",
-    institution: "Delhi Public School, RK Puram",
-    year: "2019",
-    grade: "97.8%",
+    institution: "Joseph and Mary public school, Delhi",
+    year: "2022",
+    grade: "83.8%",
     icon: "🎓",
   },
 ];
