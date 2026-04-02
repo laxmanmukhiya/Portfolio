@@ -3,11 +3,11 @@
 // ============================================================
 
 export const contact = {
-  email: "alex.sharma@email.com",
-  linkedin: "https://linkedin.com/in/alexsharma",
-  github: "https://github.com/alexsharma",
-  twitter: "https://twitter.com/alexsharma",
-  resume: "/resume.pdf", // Place your resume in /public folder
+  email: "laxmanmukhiya1998@gmail.com",
+  linkedin: "https://www.linkedin.com/in/laxman-mukhiya-3b74a632a/",
+  github: "https://github.com/laxmanmukhiya",
+  X: "https://x.com/Lachumukhiya",
+  resume: "", // Place your resume in /public folder
   availableFor: ["Internships", "Research", "Freelance", "Open Source"],
 };
 
