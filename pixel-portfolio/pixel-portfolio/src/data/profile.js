@@ -13,7 +13,7 @@ export const profile = {
   year: "Second year (2024–2028)",
   avatar: "🧑‍💻", // You can replace with an image URL
   status: "Open to Internships & Research Roles",
-  funFact: "I once trained a model that predicted my coffee intake 94% accurately.",
+  funFact: "I can make jokes on people without them realizing ",
 };
 
 export const education = [
