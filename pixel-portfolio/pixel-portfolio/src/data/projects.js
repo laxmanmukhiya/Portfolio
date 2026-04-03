@@ -15,5 +15,5 @@ export const projects = [
     status: "Completed",
     emoji: "🎯",
     highlight: true,
-  };
+  },
 ];
