@@ -8,7 +8,7 @@ export const skillCategories = [
     category: "Languages",
     icon: "💻",
     color: "#00ff88",
-    skills: ["Python", "JavaScript", "SQL", "R", "C++"],
+    skills: ["Python", "HTML", "SQL", "C"],
   },
   {
     category: "AI / ML",
@@ -18,7 +18,6 @@ export const skillCategories = [
       "Machine Learning",
       "Deep Learning",
       "NLP",
-      "Computer Vision",
       "Reinforcement Learning",
     ],
   },
@@ -38,7 +37,7 @@ export const skillCategories = [
     category: "Dev & Cloud",
     icon: "☁️",
     color: "#4ecdc4",
-    skills: ["FastAPI", "Docker", "Git", "AWS", "MongoDB"],
+    skills: ["FastAPI", "Docker", "Git"],
   },
   {
     category: "Soft Skills",
@@ -48,7 +47,6 @@ export const skillCategories = [
       "Research",
       "Problem Solving",
       "Technical Writing",
-      "Team Collaboration",
     ],
   },
 ];
