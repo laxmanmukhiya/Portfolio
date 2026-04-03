@@ -151,7 +151,7 @@ export default function GameRoom({ onObjectClick, visitedPanels }) {
           {/* ── 4. CALENDAR ── */}
           <div style={{position:'absolute',left:572,top:18,zIndex:3}}>
             <div style={{position:'absolute',top:-5,left:'50%',transform:'translateX(-50%)',width:6,height:6,borderRadius:'50%',background:'#c83a2a',border:'1px solid #8a2a1a',zIndex:4}}/>
-            <div style={{width:62,height:58,background:'#e8e0d0',border:'2px solid #8a6a40',boxShadow:'2px 2px 0 #00000060',padding:'3px 4px'}}>
+            <div style={{width:64,height:58,background:'#e8e0d0',border:'2px solid #8a6a40',boxShadow:'2px 2px 0 #00000060',padding:'3px 4px'}}>
               <div style={{background:'#b83a2a',padding:'2px 3px',marginBottom:2,textAlign:'center'}}>
                 <div style={{fontFamily:"'Press Start 2P',monospace",fontSize:5,color:'#f0d0c0'}}>APR</div>
               </div>
